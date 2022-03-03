@@ -1,0 +1,22 @@
+[
+  {
+    "id": "9e0e8458",
+    "email": "sonic@test.com",
+    "password": "$2b$10$38tf2/bnU8tekg.E0HSEV.A8JXlMFF6l6IrdGX./NCNbtDF7Az/J.",
+    "lastName": "hedgedog"
+  },
+  {
+    "id": "3582475d",
+    "email": "sonic1@test.com",
+    "password": "$2b$10$J9yk4o2AjUWVFKKba3QSm.7tprKct3Qc8enhnRnrgWkE9xWLxg5zm",
+    "firstName": "Hell",
+    "lastName": "Hala"
+  },
+  {
+    "id": "bfd579fc",
+    "email": "dr@sdlkfjdf.com",
+    "password": "$2b$10$As2idXSeEwpXW9uKOk1TVOwVByJXcPv9FUnAcsTcHRKQRN4yR7gn6",
+    "firstName": "a",
+    "lastName": "a"
+  }
+]
