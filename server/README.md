@@ -1,8 +1,39 @@
-# Disclaimer
+This package is a simple REST API written in TypeScript. Its function is to authenticate the users.
 
-There are few particularities, which I'd like to point out to whom ever the review of this code will concern.
+# User object
+The user object has the following structure:
+```typescript
+interface IUser {
+  id: string;
+  email: string;
+  firstName?: string;
+  lastName?: string;
+  password: string;
+}
+```
 
-There is a few endpoints which w
+# Endpoints
+Each endpoint has payload validation.
+- [x] endpoint for get users
+- [x] endpoint for create user
+- [x] endpoint for update user
+- [x] endpoint for delete user
 
-1. signup
-2. login
+# Automated tests
+[TODO](../TODOs.md#server)
+
+# DB
+[TODO](../TODOs.md#server)
+For the time being, the data is stored in a file. 
+
+# Modules
+## auth
+
+## db
+
+## users
+
+# Scripts
+
+- `start:dev` -
+- `start` - 
